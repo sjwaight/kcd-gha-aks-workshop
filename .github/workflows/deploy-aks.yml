@@ -12,7 +12,7 @@ permissions:
 env:
    RESOURCE_GROUP: rg-kcd-lab
    AKS_CLUSTER_NAME: sjw-aks-01
-   LOCATION: australiaeast
+   LOCATION: westus2
 
 jobs:
   build:
